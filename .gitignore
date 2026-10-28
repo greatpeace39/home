@@ -1,0 +1,11 @@
+# Local credentials and private key material
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.pfx
+*.key
+application-local.yml
+application-local.yaml
+application-local.properties

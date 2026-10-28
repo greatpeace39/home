@@ -5,4 +5,4 @@ sky:
     port: 3306
     database: aihelper_db
     username: root
-    password: "031123"
+    password: ${DB_PASSWORD}
